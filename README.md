@@ -4,6 +4,15 @@
 
 [![Android CI status](https://github.com/zhanghai/MaterialFiles/workflows/Android%20CI/badge.svg)](https://github.com/zhanghai/MaterialFiles/actions) [![GitHub release](https://img.shields.io/github/v/release/zhanghai/MaterialFiles)](https://github.com/zhanghai/MaterialFiles/releases) [![License](https://img.shields.io/github/license/zhanghai/MaterialFiles?color=blue)](LICENSE)
 
+# 这个源代码是更改过后的可以访问Utermux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux linux 目录，无需root,但是需要相同的文件签名才能使用!
+
 An open source Material Design file manager, for Android 5.0+.
 
 [<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="240">](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) [<img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="240">](https://f-droid.org/packages/me.zhanghai.android.files)
