@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2018 Hai Zhang <dreaming.in.code.zh@gmail.com>
+  ~ All Rights Reserved.
+  -->
+
+<resources>
+
+    <color name="dark_30_percent">#4d000000</color>
+    <color name="dark_50_percent">#80000000</color>
+    <color name="dark_70_percent">#b3000000</color>
+
+    <color name="system_window_scrim">#44000000</color>
+
+    <color name="color_primary">@color/material_blue_700</color>
+    <color name="color_primary_dark">@color/material_blue_800</color>
+    <color name="color_accent">@color/material_pink_500</color>
+
+    <color name="shortcut_background">#F5F5F5</color>
+
+    <color name="file_icon_blue">#4883F3</color>
+    <color name="file_icon_green">#16A765</color>
+    <color name="file_icon_orange">#FF7537</color>
+    <color name="file_icon_red">#DB4437</color>
+    <color name="file_icon_yellow">#F4B400</color>
+</resources>
