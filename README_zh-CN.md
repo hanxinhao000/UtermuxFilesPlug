@@ -4,14 +4,14 @@
 
 一个开源的 Material Design 文件管理器，适用于 Android 5.0+。
 
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
 
 [<img alt="下载应用，请到 Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/zh-cn_badge_web_generic.png" width="240">](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) [<img alt="下载应用，请到 F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on-zh-cn.png" width="240">](https://f-droid.org/packages/me.zhanghai.android.files)
 
