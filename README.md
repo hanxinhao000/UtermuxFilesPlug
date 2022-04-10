@@ -4,14 +4,14 @@
 
 [![Android CI status](https://github.com/zhanghai/MaterialFiles/workflows/Android%20CI/badge.svg)](https://github.com/zhanghai/MaterialFiles/actions) [![GitHub release](https://img.shields.io/github/v/release/zhanghai/MaterialFiles)](https://github.com/zhanghai/MaterialFiles/releases) [![License](https://img.shields.io/github/license/zhanghai/MaterialFiles?color=blue)](LICENSE)
 
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
-# 这个源代码是更改过后的可以访问Utermux/Tremux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
+# 这个源代码是更改过后的可以访问Utermux/Termux linux 目录，无需root,但是需要相同的文件签名才能使用!
 
 An open source Material Design file manager, for Android 5.0+.
 
